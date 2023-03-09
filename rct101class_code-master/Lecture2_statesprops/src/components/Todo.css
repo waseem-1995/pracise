@@ -1,0 +1,11 @@
+.todolist{
+    margin-left: 40%;
+}
+
+.todo{
+    display:flex;
+}
+
+.striked{
+    text-decoration: line-through;
+}

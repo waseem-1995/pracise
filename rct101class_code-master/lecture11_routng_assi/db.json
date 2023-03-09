@@ -1,0 +1,9 @@
+{
+    "products":[
+        { "id":1,"name":"ashish"},
+        {"id":2,"name":"satish"},
+        {"id":3,"name":"rajnish"}
+    ]
+
+    
+}

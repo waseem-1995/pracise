@@ -1,0 +1,45 @@
+.sm {
+	font-size: 12px;
+	padding: 2px;
+	width: 100px;
+}
+
+.md {
+	font-size: 15px;
+	padding: 3px;
+	width: 150px;
+}
+
+.lg {
+	font-size: 18px;
+	padding: 5px;
+	width: 200px;
+}
+
+.xl {
+	font-size: 20px;
+	padding: 8px;
+	width: 250px;
+	font-weight: bolder;
+}
+
+.filled {
+	background-color: rgb(211, 253, 239);
+	border: none;
+	border-radius: 10px;
+}
+
+.flushed {
+	border: none;
+	background: none;
+	border-bottom: 1px solid grey;
+}
+
+.flushed:focus {
+	border-bottom: 2px solid black;
+}
+
+.outline {
+	border: 1px solid grey;
+	border-radius: 10px;
+}
